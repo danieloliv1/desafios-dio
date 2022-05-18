@@ -1,2 +1,2 @@
-# desafios-dio
-Repositório de desafios de projeto da DIO.
+# Desafios DIO
+Repositório de desafios de projeto DIO.
